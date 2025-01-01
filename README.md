@@ -19,7 +19,7 @@
 * **Ngày sinh**: ngày 7 tháng 7 năm 2009.
 * **Cung**: Cự giải.
 * **Số thần học**: Số 7.
-* **Địa chỉ**: 116 ấp Phước Hòa, xã Phú Tân, huyện Chạu Thành, tỉnh Sóc Trăng.
+* **Địa chỉ**: 116 ấp Phước Hòa, xã Phú Tân, huyện Châu Thành, tỉnh Sóc Trăng.
 * **Liên hệ**: 0906682540 (zalo), nguyenminhkhoi2009.nmk@gmail.com (email).
 * **Môn chuyên**: Tin học.
 * **Thành tựu**: {updating}.
