@@ -16,7 +16,7 @@
 
 * **Họ và tên**: Nguyễn Minh Khôi
 * **Giới tính**: Nam.
-* **Ngày sinh**: ngày 7 tháng 7 năm 2009.
+* **Ngày sinh**: Ngày 7 tháng 7 năm 2009.
 * **Trường**: Trung Học Phổ Thông chuyên Nguyễn Thị Minh Khai.
 * **Lớp**: 10A3.
 * **Môn chuyên**: Tin học.
