@@ -6,8 +6,6 @@
 
 * Hiện tại mình đang theo đuổi ngành công nghệ thông tin và đặc biệt ở các mảng artificial intelligence, frontend, backend và cyber security.
 
-* Và hiện giờ mình đang nhắm tới các cuộc thị như là HSG, Olympic truyền thống 30/4, trại hè phương Nam...
-
 ---
 
 # Thông tin cá nhân
