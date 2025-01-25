@@ -23,7 +23,7 @@
 * **Thành tựu**: {updating}.
 * **Cung**: Cự giải.
 * **Số thần học**: Số 7.
-* **Tình yêu**: FA 😭.
+* **Tình yêu**: Forever Alone 😭😭😭.
 * **Liên hệ**: 0906682540 (zalo), nguyenminhkhoi2009.nmk@gmail.com (email).
 
 ---
