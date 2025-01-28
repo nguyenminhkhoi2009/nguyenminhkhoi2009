@@ -26,4 +26,4 @@
 
 ---
 
-***💕"No matter who you are, your cuteness and sweetness have melted my cold and lonely heart."💕***
+***🎉"Chúc mọi người năm mới vui vẻ, vạn sự như ý và hạnh phúc bên gia đình cũng là người thân và bạn bè."🥰***
