@@ -8,10 +8,8 @@
 - 🌱 Đam mê phát triển bản thân trong lĩnh vực CNTT
 
 ## 💻 Lĩnh vực quan tâm
-- 🤖 Trí tuệ nhân tạo (AI/ML)
 - 🖥️ Phát triển Frontend & Backend
 - 🔒 An ninh mạng (Cyber Security)
-- 📊 Khoa học dữ liệu
 
 ## 📌 Thông tin cá nhân
 | Thông tin | Chi tiết |
