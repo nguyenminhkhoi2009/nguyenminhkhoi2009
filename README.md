@@ -1,7 +1,6 @@
 # 👋 Xin chào, mình là Nguyễn Minh Khôi (nmk) 
 
 ![Banner](https://raw.githubusercontent.com/nguyenminhkhoi2009/nguyenminhkhoi2009/main/assets/banner.gif) 
-*(ảnh banner - bạn có thể thêm sau)*
 
 ## 🏫 Giới thiệu bản thân
 - 🔭 Cựu học sinh trường Thực Hành Sư Phạm Sóc Trăng
